@@ -2,7 +2,7 @@ Hi there!
 
 Somehow, you've landed on my GitHub profile...
 
-I'm in the process of moving over to sourcehut. You can find me here: https://git.sr.ht/~witcher
+I'm in the process of moving over to sourcehut. You can find me here: https://sr.ht/~witcher
 
 If you feel like keeping up with me in any way, make sure to visit my website https://wiredspace.de where you will find a blog, a short wiki and links to various external sites, among other things.
 
