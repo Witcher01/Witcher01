@@ -1,6 +1,7 @@
-Hi there!
+There's nothing to see here...  
+You can see something here, though: https://git.sr.ht/~witcher.
 
-I'm in the process of moving over to sourcehut. You can find me here: https://sr.ht/~witcher. You can assume that most of the repositories on GitHub are (potentially) outdated mirrors of the main repositories hosted on sr.ht.
+You can assume that most of the repositories on GitHub are outdated mirrors of the main repositories hosted on sr.ht.
 
 If you feel like keeping up with me in any way, make sure to visit my website, https://wiredspace.de, where you will find a blog and a microblog, as well as links to various websites you can find me on, among other things.
 
